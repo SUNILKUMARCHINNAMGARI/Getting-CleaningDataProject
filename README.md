@@ -1,7 +1,7 @@
 README DOCUMENT FOR THE GETTING & CLEANING DATA PROJECT
 ===========================
 
-This document explains the methodology followed for summarizing the samsung dataset.This document is highly recommended to be read in tandem with run_analysis.R file. 
+This document explains the methodology followed for summarizing the samsung dataset.This document is highly recommended to be read in tandem with codebook.md and run_analysis.R file. 
 
 A brief description of the dataset is as below :
 -----------------------------------------------
